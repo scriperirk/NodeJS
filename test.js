@@ -8,4 +8,5 @@ function test(
 ) {
     console.log(baz);
 }
+// eslint-disable-next-line no-var
 var baz = 123;

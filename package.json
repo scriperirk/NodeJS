@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/scriperirk/NodeJS/issues"
   },
-  "homepage": "https://github.com/scriperirk/NodeJS#readme"
+  "homepage": "https://github.com/scriperirk/NodeJS#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
 }
