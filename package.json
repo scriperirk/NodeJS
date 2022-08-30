@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriperirk/NodeJS.git"
+  },
+  "author": "scriper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriperirk/NodeJS/issues"
+  },
+  "homepage": "https://github.com/scriperirk/NodeJS#readme"
+}
