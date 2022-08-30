@@ -8,4 +8,4 @@ function test(
     ) {
   console.log(baz)
 }
-var baz = 123
+var baz =    123
